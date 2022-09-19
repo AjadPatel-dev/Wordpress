@@ -1,0 +1,312 @@
+2022-09-05T04:20:59+00:00 CRITICAL Uncaught Error: Call to undefined function Kadence\kadence() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+ in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php on line 20
+
+2022-09-05T04:21:16+00:00 CRITICAL Uncaught Error: Call to undefined function Kadence\kadence() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C: in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php on line 20
+
+2022-09-05T04:21:20+00:00 CRITICAL Uncaught Error: Call to undefined function Kadence\kadence() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C: in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php on line 20
+
+2022-09-05T04:21:29+00:00 CRITICAL Uncaught Error: Call to undefined function Kadence\kadence() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C: in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php on line 20
+
+2022-09-05T04:21:56+00:00 CRITICAL Uncaught Error: Call to undefined function Kadence\kadence() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#8 C: in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php on line 20
+
+2022-09-05T04:23:06+00:00 CRITICAL Uncaught Error: Call to undefined function Kadence\kadence() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#8 C: in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php on line 20
+
+2022-09-05T04:24:28+00:00 CRITICAL Uncaught Error: Call to undefined function Kadence\kadence() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#8 C: in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php on line 20
+
+2022-09-05T04:24:41+00:00 CRITICAL Uncaught Error: Call to undefined function Kadence\kadence() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C: in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php on line 20
+
+2022-09-05T04:34:31+00:00 CRITICAL Uncaught Error: Call to undefined function Kadence\kadence() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_child_theme-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-admin\admin.php(34): require_once('C:\\xampp\\htdocs...')
+#8 C:\ in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php on line 20
+
+2022-09-05T04:34:56+00:00 CRITICAL Uncaught Error: Call to undefined function Kadence\kadence() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php:20
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_child_theme-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+# in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence\header.php on line 20
+
+2022-09-05T05:08:22+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\custom-template.php on line 6
+
+2022-09-05T05:21:50+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs. in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php on line 10
+
+2022-09-05T05:21:51+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+ in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php on line 10
+
+2022-09-05T05:22:15+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+ in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php on line 10
+
+2022-09-05T05:22:18+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+ in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php on line 10
+
+2022-09-05T05:22:45+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+ in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php on line 10
+
+2022-09-05T05:24:17+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+ in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php on line 10
+
+2022-09-05T05:24:36+00:00 CRITICAL syntax error, unexpected '?', expecting end of file in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php on line 3
+
+2022-09-05T05:25:09+00:00 CRITICAL syntax error, unexpected '?', expecting end of file in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php on line 3
+
+2022-09-05T05:25:12+00:00 CRITICAL syntax error, unexpected '?', expecting end of file in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php on line 3
+
+2022-09-05T05:25:12+00:00 CRITICAL syntax error, unexpected '?', expecting end of file in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php on line 3
+
+2022-09-05T05:25:34+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+ in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php on line 10
+
+2022-09-05T05:25:54+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+ in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php on line 10
+
+2022-09-05T05:25:56+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+ in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php on line 10
+
+2022-09-05T05:26:24+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs. in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php on line 10
+
+2022-09-05T05:26:40+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs. in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp\header.php on line 10
+
+2022-09-05T05:26:59+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-admin\admin-ajax.php(22): require_once( in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\header.php on line 10
+
+2022-09-05T05:27:13+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-blog-header.php(13): require_once('C:\\ in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\header.php on line 10
+
+2022-09-05T05:27:14+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_html_classes() in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\header.php:10
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(770): require_once()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(716): load_template('C:\\xampp\\htdocs...', true, Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(2): get_header()
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-settings.php(566): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-admin\admin-ajax.php(22): require_once( in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\header.php on line 10
+
+2022-09-05T11:59:36+00:00 CRITICAL syntax error, unexpected '$us_email' (T_VARIABLE), expecting ')' in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php on line 39
+
+2022-09-05T12:20:37+00:00 CRITICAL Uncaught Error: Function name must be a string in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php:39
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_user('')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_login_u...')
+#4 {main}
+  thrown in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php on line 39
+
+2022-09-05T12:21:25+00:00 CRITICAL Uncaught Error: Function name must be a string in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php:39
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_user('')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_login_u...')
+#4 {main}
+  thrown in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php on line 39
+

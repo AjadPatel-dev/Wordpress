@@ -1,0 +1,66 @@
+2022-09-02T04:42:28+00:00 CRITICAL Namespace declaration statement has to be the very first statement or after any declare call in the script in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\header.php on line 13
+
+2022-09-02T11:43:51+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T11:44:50+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T11:45:28+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T11:45:34+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T11:45:41+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T11:45:50+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T11:46:51+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T11:47:51+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T11:48:05+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 28
+
+2022-09-02T11:48:08+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 28
+
+2022-09-02T11:48:12+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 28
+
+2022-09-02T11:48:24+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 28
+
+2022-09-02T11:48:52+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T12:09:18+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T12:09:23+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T12:09:42+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T12:10:14+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T12:10:18+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T12:20:46+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T12:20:54+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T12:21:27+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T12:21:36+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T12:21:41+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+
+2022-09-02T12:29:17+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 26
+
+2022-09-02T12:29:58+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 26
+
+2022-09-02T12:29:59+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 26
+
+2022-09-02T12:29:59+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 26
+
+2022-09-02T12:29:59+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 26
+
+2022-09-02T12:30:00+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 26
+
+2022-09-02T12:30:00+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 26
+
+2022-09-02T12:38:44+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 26
+
+2022-09-02T12:39:37+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\kadence_using_plugin-child\functions.php on line 27
+

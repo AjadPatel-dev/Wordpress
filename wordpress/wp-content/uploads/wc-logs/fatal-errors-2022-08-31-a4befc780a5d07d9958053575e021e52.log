@@ -1,0 +1,24 @@
+2022-08-31T06:03:53+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\templates\single-product\sale-flash.php:25
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1676): wc_get_template('single-product/...')
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): woocommerce_show_product_sale_flash('')
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\templates\content-single-product.php(43): do_action('woocommerce_bef...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(77 in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\templates\single-product\sale-flash.php on line 25
+
+2022-08-31T06:04:45+00:00 CRITICAL Uncaught Error: Call to a member function is_on_sale() on null in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\templates\single-product\sale-flash.php:25
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1676): wc_get_template('single-product/...')
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): woocommerce_show_product_sale_flash('')
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\templates\content-single-product.php(43): do_action('woocommerce_bef...')
+#6 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\template.php(77 in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\templates\single-product\sale-flash.php on line 25
+
+2022-08-31T08:30:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler.php on line 10
+
+2022-08-31T08:37:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\widgets\class-wp-widget-recent-comments.php on line 17
+

@@ -1,0 +1,143 @@
+2022-09-06T07:15:27+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php on line 307 and exactly 2 expected in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php:861
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): wc_maybe_store_user_agent('<USERNAME>')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(43): do_action('wp_login', '<USERNAME>')
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_users('')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#6 C:\xa in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 861
+
+2022-09-06T07:18:59+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php on line 307 and exactly 2 expected in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php:861
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): wc_maybe_store_user_agent('user_email')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(43): do_action('wp_login', 'user_email')
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_users('')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#6 C:\xa in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 861
+
+2022-09-06T07:19:25+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php on line 307 and exactly 2 expected in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php:861
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): wc_maybe_store_user_agent('user_email')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(43): do_action('wp_login', 'user_email')
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_users('')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#6 C:\xa in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 861
+
+2022-09-06T07:51:29+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php on line 307 and exactly 2 expected in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php:861
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): wc_maybe_store_user_agent('ajad.secureweb@...')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(45): do_action('wp_login', 'ajad.secureweb@...')
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_users('')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 861
+
+2022-09-06T07:53:41+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php on line 44
+
+2022-09-06T07:54:54+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php on line 307 and exactly 2 expected in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php:861
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): wc_maybe_store_user_agent('ajad.secureweb@...')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(47): do_action('wp_login', 'ajad.secureweb@...')
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_users('')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 861
+
+2022-09-06T07:55:42+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php on line 307 and exactly 2 expected in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php:861
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): wc_maybe_store_user_agent('ajad.secureweb@...')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(47): do_action('wp_login', 'ajad.secureweb@...')
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_users('')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 861
+
+2022-09-06T07:58:19+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php on line 307 and exactly 2 expected in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php:861
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): wc_maybe_store_user_agent('ajad.secureweb@...')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(47): do_action('wp_login', 'ajad.secureweb@...')
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_users('')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 861
+
+2022-09-06T07:59:16+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php on line 307 and exactly 2 expected in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php:861
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): wc_maybe_store_user_agent('ajad.secureweb@...')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(47): do_action('wp_login', 'ajad.secureweb@...')
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_users('')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 861
+
+2022-09-06T07:59:50+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php on line 44
+
+2022-09-06T08:00:49+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php on line 307 and exactly 2 expected in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php:861
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): wc_maybe_store_user_agent('ajad.secureweb@...')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(47): do_action('wp_login', 'ajad.secureweb@...')
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_users('')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 861
+
+2022-09-06T08:01:26+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php on line 307 and exactly 2 expected in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php:861
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): wc_maybe_store_user_agent('ajad.secureweb@...')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(47): do_action('wp_login', 'ajad.secureweb@...')
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_users('')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 861
+
+2022-09-06T08:01:39+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php on line 307 and exactly 2 expected in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php:861
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): wc_maybe_store_user_agent('ajad.secureweb@...')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(47): do_action('wp_login', 'ajad.secureweb@...')
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_users('')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 861
+
+2022-09-06T08:02:31+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php on line 307 and exactly 2 expected in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php:861
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): wc_maybe_store_user_agent('ajad.secureweb@...')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(47): do_action('wp_login', 'ajad.secureweb@...')
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_users('')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 861
+
+2022-09-06T09:05:38+00:00 CRITICAL Object of class WP_Error could not be converted to string in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php on line 47
+
+2022-09-06T09:10:28+00:00 CRITICAL Object of class wpdb could not be converted to string in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php on line 26
+
+2022-09-06T09:28:06+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php on line 307 and exactly 2 expected in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php:861
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): wc_maybe_store_user_agent('roshanpatel123@...')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(40): do_action('wp_login', 'roshanpatel123@...')
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_users('')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 861
+
+2022-09-06T09:28:54+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function wc_maybe_store_user_agent(), 1 passed in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php on line 307 and exactly 2 expected in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php:861
+Stack trace:
+#0 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): wc_maybe_store_user_agent('roshanpatel123@...')
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php(40): do_action('wp_login', 'roshanpatel123@...')
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): login_users('')
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\woocommerce\includes\wc-user-functions.php on line 861
+
+2022-09-06T10:08:08+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php on line 54
+
+2022-09-06T10:08:09+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php on line 54
+
+2022-09-06T10:08:23+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\themes\oceanwp_using_plugin-child\functions.php on line 54
+

@@ -1,0 +1,11 @@
+2022-09-01T05:04:16+00:00 CRITICAL Uncaught Error: Call to a member function is_built_with_elementor() on bool in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\elementor\core\documents-manager.php:493
+Stack trace:
+#0 [internal function]: Elementor\Core\Documents_Manager->ajax_save(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#1 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(307): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#3 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#4 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-admin\admin-ajax.php(187): do_action('wp_ajax_element...')
+#6 {main}
+  thrown in C:\xampp\htdocs\Ajad\wordpress\wordpress\wp-content\plugins\elementor\core\documents-manager.php on line 493
+
